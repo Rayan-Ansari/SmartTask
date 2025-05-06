@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rayan\\CSC360\\assignment-4-Rayan-Ansari\\backend\\backend.csproj": {}
+    "C:\\Users\\rayan\\Projects\\SmartTask\\backend\\backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rayan\\CSC360\\assignment-4-Rayan-Ansari\\backend\\backend.csproj": {
+    "C:\\Users\\rayan\\Projects\\SmartTask\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rayan\\CSC360\\assignment-4-Rayan-Ansari\\backend\\backend.csproj",
+        "projectUniqueName": "C:\\Users\\rayan\\Projects\\SmartTask\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "C:\\Users\\rayan\\CSC360\\assignment-4-Rayan-Ansari\\backend\\backend.csproj",
+        "projectPath": "C:\\Users\\rayan\\Projects\\SmartTask\\backend\\backend.csproj",
         "packagesPath": "C:\\Users\\rayan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rayan\\CSC360\\assignment-4-Rayan-Ansari\\backend\\obj\\",
+        "outputPath": "C:\\Users\\rayan\\Projects\\SmartTask\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rayan\\AppData\\Roaming\\NuGet\\NuGet.Config"
