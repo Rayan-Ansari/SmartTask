@@ -1,0 +1,43 @@
+/* Style for the form */
+.add-todo-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Add spacing between rows */
+  }
+  
+  /* Row for title and due date */
+  .row {
+    display: flex;
+    gap: 10px; /* Add spacing between the title and due date fields */
+  }
+  
+  /* Title input field */
+  .title-input {
+    flex: 2; /* Make the title field wider */
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  /* Due date input field */
+  .date-input {
+    flex: 1; /* Make the due date field narrower */
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  /* Description input field */
+  .description-input {
+    width: 100%; /* Full width to match the title field */
+    padding: 10px;
+    font-size: 16px;
+    resize: vertical; /* Allow vertical resizing */
+    min-height: 80px; /* Set a minimum height */
+  }
+  
+  /* Submit button */
+  .submit-button {
+    align-self: flex-end; /* Align the button to the right */
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }

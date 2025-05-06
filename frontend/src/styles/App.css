@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input, textarea, button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  cursor: pointer;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+.todo-item {
+  border: 2px solid transparent;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  transition: border-color 0.3s, background-color 0.3s;
+  color: #333; /* Dark gray text for better contrast */
+}
+
+.todo-green {
+  border-color: green;
+  background-color: #e6ffe6; /* Light green background */
+  color: #004d00; /* Dark green text for better contrast */
+}
+
+.todo-yellow {
+  border-color: yellow;
+  background-color: #ffffe6; /* Light yellow background */
+  color: #666600; /* Dark yellow text for better contrast */
+}
+
+.todo-red {
+  border-color: red;
+  background-color: #ffe6e6; /* Light red background */
+  color: #990000; /* Dark red text for better contrast */
+}
+
+.compact-paragraph {
+  margin-bottom: 0.5rem;
+}
+
+.hover-effect:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s ease-in-out;
+}
+.todo-green  { background:#e6ffe9; border:1px solid #38b24c; }
+.todo-yellow { background:#fffbe6; border:1px solid #ffc107; }
+.todo-red    { background:#ffe6e6; border:1px solid #f03e3e; }
